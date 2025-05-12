@@ -1,4 +1,2 @@
 # git_learn
-git_learn^~^
-dddd
-dd
+git_learn
